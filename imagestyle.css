@@ -1,4 +1,11 @@
 body{
-    background-size: auto;
+    margin:0 auto;
     background-image: url(image/blocks.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: block;
+    height: 800px;
+    width: 1240px;
 }
