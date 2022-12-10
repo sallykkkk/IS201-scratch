@@ -2,7 +2,7 @@
     font-family: Arial, Helvetica, sans-serif;
     nav-index: center;
     font-size: 700%;
-    color: rgb(0, 0, 0);
+    color: blanchedalmond;
     text-align: center;
 }
 
@@ -32,6 +32,7 @@
     font-size: xx-large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
+    height: auto;
 
 }
 
